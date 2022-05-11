@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda&display=swap");
+
+.container {
+  width: 70%;
+  height: 550px;
+  margin: auto;
+
+  background: rgba(255, 230, 165, 0.9);
+  border: 1px solid #000000;
+  box-shadow: inset 0px 0px 44px 39px rgba(241, 194, 73, 0.87);
+  border-radius: 19px;
+  overflow: auto;
+  padding: 2%;
+}
+
+.itemContainer {
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 100%;
+
+  color: #521400;
+  padding: 2%;
+
+  display: flex;
+  flex-flow: column;
+}

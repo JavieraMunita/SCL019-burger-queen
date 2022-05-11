@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Denk+One&display=swap");
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 299px;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+  background: rgba(255, 244, 237, 0.7);
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+    inset 1px 0px 46px 19px rgba(233, 184, 141, 0.8);
+}
+
+.imgLogo {
+  width: 100%;
+  margin: auto;
+}
+
+.barText {
+  width: 100%;
+  height: 130px;
+
+  font-family: "Rye";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 52px;
+  align-items: center;
+  text-align: center;
+
+  color: #521400;
+}
+
+.btnBar {
+  background: rgba(251, 234, 192, 0.62);
+  border: 1px solid #521400;
+  box-shadow: inset 0px 2px 33px 12px rgba(241, 194, 73, 0.51);
+}
+
+.btnBar:focus {
+  background: rgba(255, 196, 46, 0.62);
+}
+
+.inputCliente {
+  width: 239px;
+  height: 42px;
+  margin: auto;
+
+  background: rgba(255, 255, 255, 0.75);
+  border: 1px solid #521400;
+  border-radius: 28px;
+}

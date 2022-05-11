@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "item": "Expresso",
+    "cost": 2000
+  },
+  {
+    "id": 2,
+    "item": "Americano",
+    "cost": 2500
+  },
+  {
+    "id": 3,
+    "item": "Latte",
+    "cost": 3000
+  },
+  {
+    "id": 4,
+    "item": "Té/Infusión",
+    "cost": 2000
+  },
+  {
+    "id": 5,
+    "item": "Chocolate caliente",
+    "cost": 3000
+  },
+  {
+    "id": 6,
+    "item": "Jugo de frutas",
+    "cost": 2500
+  },
+  {
+    "id": 7,
+    "item": "Prensado queso jamón",
+    "cost": 4000
+  },
+  {
+    "id": 8,
+    "item": "Tostadas con palta",
+    "cost": 4000
+  },
+  {
+    "id": 9,
+    "item": "Tostadas con tofu revuelto",
+    "cost": 4500
+  },
+  {
+    "id": 10,
+    "item": "Panqueques",
+    "cost": 4500
+  },
+  {
+    "id": 11,
+    "item": "Yogurt con granola",
+    "cost": 3000
+  }
+]
